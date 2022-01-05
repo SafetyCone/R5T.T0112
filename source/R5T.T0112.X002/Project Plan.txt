@@ -1,0 +1,3 @@
+R5T.T0112.X002 - Code-related extensions to IProjectNameOperator and related extension method bases.
+
+GOALS:
